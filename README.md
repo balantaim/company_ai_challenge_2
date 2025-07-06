@@ -17,7 +17,7 @@ Instead of writing filtering logic manually, this app sends the product list and
 * ✅ Natural language product filtering (e.g., “I need cheap electronics in stock”)
 * ✅ Uses **OpenAI Tool Calling** to interpret user input and apply filters
 * ✅ Fully console-based app (no UI or REST)
-* ✅ Loads raw product data from `products.json`
+* ✅ Loads raw product data from [products.json](src/main/resources/products.json)
 * ✅ Built with:
 
     * Java 17 (OpenJDK)
